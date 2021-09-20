@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr4-Vigener", "Pr4-Vigener\Pr4-Vigener.csproj", "{D3334A46-7162-443D-91B3-98B59C61DB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3334A46-7162-443D-91B3-98B59C61DB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3334A46-7162-443D-91B3-98B59C61DB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3334A46-7162-443D-91B3-98B59C61DB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3334A46-7162-443D-91B3-98B59C61DB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D7D3E81-4A28-491D-87BD-4609D96ECC27}
+	EndGlobalSection
+EndGlobal
